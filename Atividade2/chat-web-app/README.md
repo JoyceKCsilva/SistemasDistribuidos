@@ -1,6 +1,6 @@
 # Chat Web Application
 
-Este projeto é uma aplicação de chat em tempo real que utiliza WebSockets para comunicação entre os usuários. A interface do usuário é estilizada para se assemelhar ao Telegram, proporcionando uma experiência de chat moderna e agradável.
+Este projeto é uma aplicação de chat em tempo real que utiliza WebSockets para comunicação entre os usuários.
 
 ## Estrutura do Projeto
 
@@ -56,11 +56,6 @@ chat-web-app
    http://localhost:3000
    ```
 
-## Funcionalidades
-
-- Os usuários podem inserir um nome de usuário ao entrar na aplicação.
-- Mensagens podem ser enviadas e recebidas em tempo real.
-- A interface é estilizada para se assemelhar ao Telegram, com cores personalizadas.
 
 ## Contribuições
 
