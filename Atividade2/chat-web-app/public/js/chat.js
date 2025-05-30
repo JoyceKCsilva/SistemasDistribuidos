@@ -1,4 +1,5 @@
-const socket = new WebSocket('ws://localhost:8080');
+const serverAddress = window.location.hostname;
+const socket = new WebSocket(`ws://${serverAddress}:8080`);
 const messagesContainer = document.getElementById('messages');
 const usernameInput = document.getElementById('username');
 const messageInput = document.getElementById('message');
